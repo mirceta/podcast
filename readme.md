@@ -1,4 +1,4 @@
-## Kako dela internet (za stare ljudi)
+## Kako dela internet
 
 ### Cilj
 
